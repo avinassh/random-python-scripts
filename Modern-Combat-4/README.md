@@ -1,0 +1,1 @@
+This scipt would generate iTunes redeem code for Modern Combat 4. It was written during IGN promotion.
